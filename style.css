@@ -18,3 +18,37 @@ main {
 footer {
   background-color: #b254f0;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-1,
+.box-2,
+.box-3,
+.box-4,
+.box-5 {
+  width: 20%;
+  height: 20%;
+  padding: 4rem;
+  border: 2px solid black;
+  margin: 2rem;
+}
+
+.box-1 {
+  background-color: #9ff054;
+}
+.box-2 {
+  background-color: #b254f0;
+}
+.box-3 {
+  background-color: brown;
+}
+.box-4 {
+  background-color: cornflowerblue;
+}
+.box-5 {
+  background-color: chocolate;
+}
