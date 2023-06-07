@@ -1,3 +1,20 @@
-.header {
-    background-color: brown;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #9ff054;
+}
+
+nav {
+  background-color: #54ebf0;
+}
+
+main {
+  background-color: #f0a754;
+}
+
+footer {
+  background-color: #b254f0;
 }
